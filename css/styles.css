@@ -1,0 +1,14 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+.login-space {
+    margin-top: 5rem;
+}
+.photo {
+ display: block;
+ margin-left: 10rem;
+}
+header {
+    background-color: lightyellow;
+}
