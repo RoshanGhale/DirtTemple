@@ -1,13 +1,14 @@
-h1 {
-    color:red;
+h3 {
+    color:crimson;
     text-align: center;
+   padding: 1rem;
 }
 .login-space {
     margin-top: 5rem;
 }
 .photo {
  display: block;
- margin-left: 10rem;
+ margin-left: 25rem;
 }
 header {
     background-color: lightyellow;
