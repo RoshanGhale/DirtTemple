@@ -1,15 +1,16 @@
-h3 {
-    color:crimson;
-    text-align: center;
-   padding: 1rem;
-}
 .login-space {
-    margin-top: 5rem;
+  margin-top: 5rem;
 }
 .photo {
- display: block;
- margin-left: 25rem;
+  display: block;
+  margin-left: 25rem;
 }
 header {
-    background-color: lightyellow;
+  background-color: lightyellow;
+}
+h2 {
+  text-align: center;
+}
+main {
+  margin-left: 30rem;
 }
