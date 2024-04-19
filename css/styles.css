@@ -13,6 +13,7 @@ header {
 }
 h3 {
   text-align: center;
+  padding: 2rem;
 }
 footer {
   background-color: lightcoral;
@@ -20,9 +21,9 @@ footer {
 }
 .pgh {
   font-size: large;
-  padding: 2rem;
+  padding: 1rem;
 }
 .ll {
   font-size: large;
-  padding: 2rem;
+  padding: 1rem;
 }
