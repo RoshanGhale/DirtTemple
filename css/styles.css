@@ -3,15 +3,26 @@
 }
 .photo {
   display: block;
-  margin-left: 25rem;
+  margin-left: 30rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 }
+
 header {
   background-color: lightyellow;
 }
-h2 {
+h3 {
   text-align: center;
 }
 footer {
   background-color: lightcoral;
   padding-left: 15rem;
+}
+.pgh {
+  font-size: large;
+  padding: 2rem;
+}
+.ll {
+  font-size: large;
+  padding: 2rem;
 }
